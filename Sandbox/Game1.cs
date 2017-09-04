@@ -16,7 +16,7 @@ namespace Sandbox
         // False. Pie is amazing.
 
         // Pi is also a number.
-        // Haha, that's so funny.
+        // Haha, that's so funny.  Funny things are good.
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
