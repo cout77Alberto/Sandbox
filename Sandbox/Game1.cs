@@ -8,7 +8,7 @@ namespace Sandbox
     /// This is the main type for your game. Not really.
     /// Apples are not oranges. But oranges can be round.
     /// 
-    /// Apples are actually considered part of the orange family.
+    /// Apples are actually considered part of the orange family. The more ya know...
     /// </summary>
     public class Game1 : Game
     {
