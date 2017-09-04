@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework.Input;
 namespace Sandbox
 {
     /// <summary>
-    /// This is the main type for your game.
+    /// This is the main type for your game. Not really.
     /// </summary>
     public class Game1 : Game
     {
