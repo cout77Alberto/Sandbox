@@ -12,6 +12,7 @@ namespace Sandbox
     /// </summary>
     public class Game1 : Game
     {
+        // Pie is pretty great.
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
