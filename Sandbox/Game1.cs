@@ -6,6 +6,7 @@ namespace Sandbox
 {
     /// <summary>
     /// This is the main type for your game. Not really.
+    /// Apples are not oranges.
     /// </summary>
     public class Game1 : Game
     {
